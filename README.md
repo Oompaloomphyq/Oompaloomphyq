@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a thesis project
-- 🌱 I’m currently learning JavaSCript and AI
+- 🌱 I’m currently learning JavaScript and AI
 - 📫 How to reach me: phyqobedencia0319@gmail.com
 - ⚡ Fun fact: Bading
 
